@@ -1,0 +1,72 @@
+body {
+	margin: 0;
+	font-family: Chivo;
+}
+/* selector {*/
+footer {
+	/*propiedad: valor;*/
+	background-color:yellow;
+	padding: 12px ;
+	text-align: center;
+}
+
+header {
+	/*propiedad: valor;*/
+	background-color:#eee;
+	padding: 10px ;
+	text-align: center;
+}
+.opciones {
+	/*propiedad: valor;*/
+	background-color: black;
+	color: white;
+	padding: 12px ;
+	text-align: center;
+	}
+	li{
+		list-style-type: none;
+
+	}
+.botones {
+	/*propiedad: valor;*/
+	background-color:beige;
+	padding: 12px ;
+	text-align: center;
+}
+
+img{
+	border-radius: 30px 30px 0 0;
+	
+	}
+	#margen{
+		margin: 5px;
+		border-radius: 30px;
+	}
+a{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+color: green;
+}
+.locaciones{
+	display: inline-flex;
+	padding: 12px;
+	text-align: center;
+}
+
+.boton{
+background-color: yellowgreen;
+padding: 10px;
+border: 2px solid #000;
+border-radius: 10px;
+}
+.boton:hover{
+background-color: yellow;
+padding: 10px;
+border: 2px solid #000;
+border-radius: 5px;
+}
+
+
+
